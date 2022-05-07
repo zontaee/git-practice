@@ -2,12 +2,10 @@ team: Lions
 
 manager: Mary
 
-<<<<<<< HEAD
-coach: Nicholas
-=======
-coach: Melissa
 
->>>>>>> 7726c6e (Edit lions)
+coach: Lupi
+
+
 members:
 - Thomas
 - Karen
